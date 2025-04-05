@@ -41,9 +41,16 @@
 
 ### 📫 Contato
 
-- 📧 E-mail: natanaelnoronha9@gmail.com  
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natanaelnoronha/)  
-- [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/natanael.noronha/)
+<div align="center">
+  📧 E-mail: natanaelnoronha9@gmail.com  
+  <br><br>
+  <a href="https://www.linkedin.com/in/natanaelnoronha/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/natanael.noronha/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</div>
 
 ---
 

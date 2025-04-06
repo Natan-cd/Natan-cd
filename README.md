@@ -18,27 +18,26 @@
   <img align="center" alt="CSS" title="CSS3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JavaScript" title="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Java" title="Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="SQL Server" title="SQL Server" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
 </div>
 
 ---
 
+<h2 align="center">⚡ Stats ⚡</h2>
 
-<h2 align="center" >⚡Stats⚡</h2>
-<br>
-<div align="center" >
+<div align="center">
   <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=natan-cd&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=artur-debv&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=artur-debv&show_icons=true" />
-</picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=Natan-cd&show_icons=true&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=Natan-cd&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=Natan-cd&show_icons=true" />
+  </picture>
 </div>
----
 
 ---
 
@@ -60,5 +59,5 @@
 ### 🐍 Snake com meus commits
 
 <div align="center">
-  <img src="https://github.com/natanaelnoronha/natanaelnoronha/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/Natan-cd/Natan-cd/blob/output/github-contribution-grid-snake.svg" />
 </div>

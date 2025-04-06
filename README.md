@@ -10,7 +10,7 @@
 
 - 🎓 Graduando em **Sistemas de Informação**  
 - 🌱 Atualmente aprendendo **SQL**, **Java**, **Infraestrutura de Rede** e **JavaScript**  
-- 💼 Estagiando na área de **TI como Assistente de Infraestrutura**  
+- 💼 Trabalhando na área de **TI como Assistente de Infraestrutura**  
 - ⚙️ Buscando crescer como **Desenvolvedor Full Stack** e **Engenheiro de Redes**
 
 <div style="display: inline_block"><br>
